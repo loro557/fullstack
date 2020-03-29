@@ -13,7 +13,6 @@ app.use(routes);
 
 
 
-// https://github.com/loro557/fullstack.git
 
 
 
